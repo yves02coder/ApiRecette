@@ -1,0 +1,4 @@
+{
+  "liveshare.populateGitCoAuthors": "never",
+  "gitlens.advanced.blame.sizeThresholdAfterEdit": 0
+}
